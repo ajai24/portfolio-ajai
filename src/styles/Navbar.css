@@ -1,0 +1,32 @@
+/* Navbar Styling */
+.navbar {
+    background: linear-gradient(135deg, #80df8b, #685ed8);
+    padding: 20px;
+    text-align: center;
+    color: #7359d4; /* Bright Orange text */
+    font-size: 1.2rem;
+  }
+  
+  .navbar a {
+    color: #fcfcfc;
+    text-decoration: none;
+    margin: 0 15px;
+    font-weight: bold;
+  }
+  
+  .navbar a:hover {
+    color: #ffffff; /* White on hover */
+  }
+  
+  .navbar ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+  }
+  
+  .navbar li {
+    margin: 0 10px;
+  }
+  
